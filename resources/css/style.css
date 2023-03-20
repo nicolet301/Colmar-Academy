@@ -34,6 +34,9 @@ header ul li {
   padding: 1rem;
 }
 
+.logo {
+  align-items: center;
+}
 
 .banner {
   margin-top: 4rem;
