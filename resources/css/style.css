@@ -17,6 +17,7 @@ header {
 .navbar {
   display: flex;
   justify-content: space-between;
+  top: 0;
 }
 
 ul {
