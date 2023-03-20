@@ -19,14 +19,20 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  padding: auto 1.5rem;
 }
 
 ul {
   display: flex;
   list-style: none;
   text-decoration: none;
+
 }
+
+
 
 .banner {
   margin-top: 4rem;
+  background-color:
 }
+
