@@ -9,8 +9,19 @@ body {
 }
 
 header {
+ top: 0;
+ position: fixed;
+ width: 100%;
+ z-index: 1;
+}
+
+.navbar {
   display: flex;
   justify-content: space-between;
 }
 
-
+ul {
+  display: flex;
+  list-style: none;
+  text-decoration: none;
+}
