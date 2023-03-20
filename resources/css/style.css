@@ -23,6 +23,10 @@ header {
   padding-right: 1.5rem;
 }
 
+#colmar span {
+  font-weight: 100;
+}
+
 ul {
   display: flex;
   list-style: none;
