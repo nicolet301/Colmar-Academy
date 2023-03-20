@@ -23,6 +23,10 @@ header {
   padding-right: 1.5rem;
 }
 
+#colmar {
+  font-weight: 700;
+}
+
 #colmar span {
   font-weight: 100;
 }
