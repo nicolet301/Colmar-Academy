@@ -24,11 +24,11 @@ header {
 }
 
 #colmar {
-  font-weight: 700;
+  font-weight: lighter;
 }
 
 #colmar span {
-  font-weight: lighter;
+  font-weight: 700;
 }
 
 ul {
