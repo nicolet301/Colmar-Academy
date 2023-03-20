@@ -51,3 +51,10 @@ header ul li {
   margin-top: 4rem;
 }
 
+.banner {
+  display: flex;
+}
+
+banner .main {
+  flex-wrap: wrap;
+}
