@@ -42,20 +42,20 @@ header ul li {
   padding: 1rem;
 }
 
+/* Section 1: Banner */
+
 .banner {
 
   background-color: lightgray;
   margin-top: 4rem;
 }
 
-
-
-
-
 .main img {
   width: 60%;
   margin: 2rem 1.5rem;
 }
+
+/* Section 2: Practice */
 
 .practice img {
   width: 60%;
@@ -67,3 +67,18 @@ figure {
   height: auto;
   padding: 1rem;
 }
+
+/* Section 3: Learn */
+
+
+
+
+/* Section 4: Thesis */
+
+video {
+  width: 60%;
+  margin: 2rem 1.5rem 1.5rem;
+}
+
+
+/* Mobile Media Queries */
