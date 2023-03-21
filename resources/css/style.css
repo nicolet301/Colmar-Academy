@@ -49,6 +49,7 @@ header ul li {
 }
 
 .main {
+  display: flex;
   flex-flow: row wrap;
 }
 
