@@ -61,3 +61,9 @@ header ul li {
   width: 60%;
   margin: 2rem 1.5rem;
 }
+
+figure {
+  width: 35%;
+  height: auto;
+  padding: 1rem;
+}
