@@ -42,6 +42,11 @@ header ul li {
   padding: 1rem;
 }
 
+.banner, .academy, .main, .practicing,
+.thesis, .majors {
+  display: flex;
+}
+
 /* Section 1: Banner */
 
 .banner {
