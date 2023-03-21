@@ -43,15 +43,14 @@ header ul li {
 }
 
 .banner {
-  display: flex;
+
   background-color: lightgray;
   margin-top: 4rem;
 }
 
-.main {
-  display: flex;
-  flex-flow: row wrap;
-}
+
+
+
 
 .main img {
   width: 60%;
