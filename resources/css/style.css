@@ -43,8 +43,13 @@ header ul li {
 }
 
 .banner {
+  display: flex;
   background-color: lightgray;
   margin-top: 4rem;
+}
+
+.main {
+  flex-flow: row wrap;
 }
 
 .main img {
