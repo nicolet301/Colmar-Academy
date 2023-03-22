@@ -49,10 +49,13 @@ header ul li {
 
 /* Section 2: Practice */
 
-
 .practice img {
   width: 60%;
   margin: 2rem 1.5rem;
+}
+
+.learn {
+  width: 60%;
 }
 
 figure {
