@@ -36,8 +36,7 @@ header ul li {
 /* Section 1: Banner */
 
 .banner {
-  position: relative;
-  top: 4rem;
+  margin-top: 4rem;
   background-color: lightgray;
 
 }
@@ -52,7 +51,7 @@ header ul li {
 
 .practice img {
   width: 60%;
-  padding: 2rem 1.5rem;
+  margin: 2rem 1.5rem;
 }
 
 figure {
