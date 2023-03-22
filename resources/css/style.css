@@ -22,6 +22,18 @@ header {
   margin-right: 1.5rem;
 }
 
+.logo {
+  float: left;
+}
+
+#colmar {
+  font-weight: 100;
+}
+
+#colmar span {
+  font-weight: 700;
+}
+
 ul {
   display: flex;
   list-style: none;
