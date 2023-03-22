@@ -86,7 +86,7 @@ video {
 /* Footer */
 
 .academy {
-
+display: flex;
 }
 
 /* Mobile Media Queries */
