@@ -47,8 +47,10 @@ header ul li {
 /* Section 1: Banner */
 
 .banner {
+  position: relative;
+  top: 4rem;
   background-color: lightgray;
-  margin-top: 4rem;
+
 }
 
 .main img {
