@@ -36,8 +36,7 @@ header ul li {
 /* Section 1: Banner */
 
 .banner {
-  position: relative;
-  top: 4rem;
+  margin-top: 4rem;
   background-color: lightgray;
 
 }
