@@ -61,13 +61,16 @@ header ul li {
   align-items: center;
 }
 
-
 .main img {
   max-width: 60%;
   margin: 2rem 1.5rem;
+  float: left;
 }
 
-.here {
+
+
+
+button {
   background-color: black;
   padding: 0.5rem 1rem;
   color: white;
