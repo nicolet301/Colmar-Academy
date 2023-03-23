@@ -65,9 +65,13 @@ header ul li {
   margin: 2rem 1.5rem;
 }
 
+.learn {
+  width: 40%;
+}
+
 button {
   background-color: black;
-  padding: 0.5rem 3rem;
+  padding: 0.5rem 1rem;
   color: white;
 }
 
@@ -76,10 +80,6 @@ button {
 .practice img {
   width: 60%;
   margin: 2rem 1.5rem;
-}
-
-.learn {
-  width: 60%;
 }
 
 figure {
