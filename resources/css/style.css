@@ -70,6 +70,8 @@ header ul li {
 
 .content {
   display: inline-flex;
+  flex-wrap: wrap;
+  align-content: center;
 }
 
 button {
