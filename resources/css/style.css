@@ -68,6 +68,7 @@ header ul li {
 .main img {
   width: 100%;
   margin: 2rem 1.5rem;
+  float: left;
 }
 
 .learn {
