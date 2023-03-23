@@ -61,8 +61,14 @@ header ul li {
   align-items: center;
 }
 
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .main img {
-  max-width: 100%;
+  max-width: 60%;
   margin: 2rem 1.5rem;
 
 }
