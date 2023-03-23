@@ -83,10 +83,25 @@ button {
 
 /* Section 2: Practice */
 
+.practice {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+.reader {
+  flex-basis: 60%;
+}
+
 .practice img {
   max-width: 60%;
   margin: 2rem 1.5rem;
 }
+
+.university {
+  flex-basis: 40%;
+}
+
 
 figure {
   width: 35%;
