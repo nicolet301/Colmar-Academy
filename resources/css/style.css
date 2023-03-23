@@ -73,7 +73,6 @@ header ul li {
 .learn {
   flex-basis: 40%;
   padding-left: 4rem;
-  flex-flow: row wrap;
 }
 
 
@@ -85,8 +84,17 @@ button {
 
 /* Section 2: Practice */
 
+.practice {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.reader {
+  flex-basis: 60%;
+}
 .practice img {
-  width: 60%;
+  max-width: 100%;
   margin: 2rem 1.5rem;
 }
 
