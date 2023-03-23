@@ -87,7 +87,7 @@ button {
   background-color: black;
   padding: 0.5rem 9rem;
   color: white;
-  outline: 0;
+  border-style: none;
 }
 
 /* Section 2: Practice */
