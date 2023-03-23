@@ -54,7 +54,7 @@ header ul li {
   position: relative;
   margin-top: 4rem;
   background-color: lightgray;
-  display: flex;
+  display: inline-flex;
   align-items: center;
 
 }
