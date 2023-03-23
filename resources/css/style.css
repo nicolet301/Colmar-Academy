@@ -83,13 +83,6 @@ button {
 
 /* Section 2: Practice */
 
-.practice {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-
 .practice img {
   max-width: 100%;
   margin: 2rem 1.5rem;
