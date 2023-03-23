@@ -77,6 +77,10 @@ header ul li {
   font-size: 2rem;
 }
 
+.content h2 {
+  line-height: 1.5;
+}
+
 button {
   background-color: black;
   padding: 0.5rem 1rem;
