@@ -70,6 +70,10 @@ header ul li {
   margin: 2rem 1.5rem;
 }
 
+.learn {
+  flex-basis: 40%;
+  padding-left: 2rem;
+}
 
 
 button {
