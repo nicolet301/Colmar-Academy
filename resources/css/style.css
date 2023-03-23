@@ -56,23 +56,13 @@ header ul li {
   position: relative;
   margin-top: 4rem;
   background-color: lightgray;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 
-.main {
-  flex-basis: 60%;
-}
+
 
 .main img {
-  max-width: 100%;
+  max-width: 60%;
   margin: 2rem 1.5rem;
-}
-
-.learn {
-  flex-basis: 40%;
-  padding-left: 4rem;
 }
 
 button {
@@ -83,25 +73,10 @@ button {
 
 /* Section 2: Practice */
 
-.practice {
-  display: flex;
-  justify-content: center;
-  align-content: center;
-}
-
-.reader {
-  flex-basis: 60%;
-}
-
 .practice img {
   max-width: 60%;
   margin: 2rem 1.5rem;
 }
-
-.university {
-  flex-basis: 40%;
-}
-
 
 figure {
   width: 35%;
