@@ -89,7 +89,11 @@ button {
   align-items: center;
 }
 
-.practice img {
+.reader {
+  flex-basis: 60%;
+}
+
+.reader img {
   max-width: 100%;
   margin: 2rem 1.5rem;
 }
