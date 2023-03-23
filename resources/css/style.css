@@ -72,7 +72,7 @@ header ul li {
   display: inline-flex;
   flex-wrap: wrap;
   align-content: center;
-  margin-left: 1.5rem;
+  padding-left: 1.5rem;
   max-width: 40%;
 }
 
