@@ -60,7 +60,7 @@ header ul li {
 }
 
 .main img {
-  width: 60%;
+  min-width: 60%;
   margin: 2rem 1.5rem;
 }
 
