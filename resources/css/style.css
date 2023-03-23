@@ -61,19 +61,12 @@ header ul li {
   align-items: center;
 }
 
-.main {
-  flex-basis: 60%;
-}
-
 .main img {
-  width: 100%;
+  width: 60%;
   margin: 2rem 1.5rem;
-  float: left;
 }
 
-.learn {
-  padding-left: 1.5rem;
-}
+
 
 button {
   background-color: black;
