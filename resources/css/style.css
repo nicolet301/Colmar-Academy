@@ -63,7 +63,6 @@ header ul li {
 
 .main {
   display: flex;
-  flex-direction: row;
 }
 
 .main img {
