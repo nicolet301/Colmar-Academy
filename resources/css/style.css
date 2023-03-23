@@ -63,7 +63,7 @@ header ul li {
 
 .main {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-around;
   align-items: center;
 }
 
@@ -83,7 +83,7 @@ header ul li {
 
 button {
   background-color: black;
-  padding: 0.5rem 4rem;
+  padding: 0.5rem 5rem;
   color: white;
   box-align: center;
 }
