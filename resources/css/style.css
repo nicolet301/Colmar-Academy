@@ -61,20 +61,16 @@ header ul li {
   align-items: center;
 }
 
-.main {
-  flex-basis: 60%;
-}
-
 .main img {
+  display: flex;
   max-width: 100%;
   margin: 2rem 1.5rem;
 
 }
 
 .content {
-  padding-left: 1.5rem;
+  display: inline-flex;
 }
-
 
 button {
   background-color: black;
