@@ -55,14 +55,13 @@ header ul li {
   margin-top: 4rem;
   background-color: lightgray;
   display: flex;
-  justify-content: center;
   align-items: center;
 
 
 }
 
 .main img {
-  max-width: 100%;
+  width: 60%;
   margin: 2rem 1.5rem;
 }
 
