@@ -83,9 +83,9 @@ header ul li {
 
 button {
   background-color: black;
-  padding: 0.5rem 1rem;
+  padding: 0.5rem 4rem;
   color: white;
-  text-align: center;
+  box-align: center;
 }
 
 /* Section 2: Practice */
