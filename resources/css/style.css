@@ -55,7 +55,6 @@ header ul li {
   margin-top: 4rem;
   background-color: lightgray;
   display: flex;
-  justify-content: center;
   align-items: center;
 
 }
@@ -65,9 +64,6 @@ header ul li {
   margin: 2rem 1.5rem;
 }
 
-.learn {
-  width: 40%;
-}
 
 button {
   background-color: black;
