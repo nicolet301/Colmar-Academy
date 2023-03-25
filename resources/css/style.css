@@ -97,8 +97,8 @@ button {
 /* Section 2: Practice */
 
 .practice {
-  display: flex;
-  flex-direction: column;
+  display: inline-flex;
+
 }
 
 .practice img {
