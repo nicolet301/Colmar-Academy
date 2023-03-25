@@ -120,6 +120,7 @@ figure {
 
 figure h3 {
   float: right;
+  vertical-align: middle;
 }
 
 /* Section 3: Learn */
