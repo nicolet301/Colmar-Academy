@@ -118,7 +118,9 @@ figure {
   padding: 1rem;
 }
 
-
+figure h3 {
+  float: right;
+}
 
 /* Section 3: Learn */
 
