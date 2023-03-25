@@ -22,8 +22,7 @@ header {
 }
 
 .logo {
-  display: flex;
-  align-items: center;
+  vertical-align: middle;
   float: left;
   line-height: 2rem;
 }
@@ -37,7 +36,7 @@ header {
 }
 
 ul {
-  display: flex;
+  text-align: right;
   list-style: none;
   text-decoration: none;
 
