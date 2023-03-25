@@ -18,11 +18,11 @@ header {
 }
 
 .navbar {
-display: flex;
-justify-content: space-between;
-align-items: center;
-margin-left: 1.5rem;
-margin-right: 1.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 1.5rem;
+  margin-right: 1.5rem;
 }
 
 .logo {
@@ -48,7 +48,6 @@ ul {
 
 header ul li {
   display: flex;
-  align-items: center;
   padding: 1rem;
 
 }
