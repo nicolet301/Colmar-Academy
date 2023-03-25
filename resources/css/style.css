@@ -96,20 +96,16 @@ button {
 
 /* Section 2: Practice */
 
-.practice {
-  display: inline-flex;
-
-}
 
 .practice img {
   max-width: 60%;
   margin: 2rem 1.5rem;
 }
 
-.quote {
-  clear: both;
+.university {
+  display: flex;
+  align-items: flex-end;
 }
-
 
 figure {
   width: 35%;
