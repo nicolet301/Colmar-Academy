@@ -18,7 +18,7 @@ header {
 }
 
 .navbar {
-  display: inline;
+  display: inline-block;
 }
 
 .logo {
@@ -29,7 +29,7 @@ header {
 
 #colmar {
   font-weight: 100;
-  vertical-align: middle; 
+  vertical-align: middle;
 }
 
 #colmar span {
