@@ -96,6 +96,10 @@ button {
 
 /* Section 2: Practice */
 
+.practice {
+  display: inline-flex;
+  align-items: center;
+}
 
 .practice img {
   max-width: 60%;
