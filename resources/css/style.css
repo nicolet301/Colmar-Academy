@@ -18,7 +18,7 @@ header {
 }
 
 .navbar {
-  display: inline-block;
+  display: inline;
 }
 
 .logo {
@@ -37,6 +37,7 @@ header {
 }
 
 ul {
+  display: inline-block;
   text-align: right;
   list-style: none;
   text-decoration: none;
