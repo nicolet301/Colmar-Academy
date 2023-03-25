@@ -22,13 +22,13 @@ header {
 }
 
 .logo {
-  vertical-align: middle;
   float: left;
   line-height: 2rem;
 }
 
 #colmar {
   font-weight: 100;
+  vertical-align: middle;
 }
 
 #colmar span {
