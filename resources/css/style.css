@@ -98,7 +98,7 @@ button {
 
 .practice {
   display: flex;
-  
+  flex-direction: row;
 }
 
 .practice img {
