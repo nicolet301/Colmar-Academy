@@ -98,7 +98,8 @@ button {
 
 .practice {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
+  align-items: center;
 }
 
 .practice img {
