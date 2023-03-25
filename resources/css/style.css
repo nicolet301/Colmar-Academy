@@ -12,7 +12,6 @@ body {
 
 header {
  top: 0;
- position: fixed;
  width: 100%;
  z-index: 1;
 }
@@ -45,7 +44,7 @@ ul {
 header ul li {
   padding: 1rem;
   display: inline-block;
-  text-align: right; 
+  float: right;
 }
 
 /* Section 1: Banner */
