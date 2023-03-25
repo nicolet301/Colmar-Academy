@@ -45,6 +45,8 @@ ul {
 }
 
 header ul li {
+  display: flex;
+  
   padding: 1rem;
 
 }
