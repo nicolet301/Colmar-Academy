@@ -37,15 +37,6 @@ span {
   font-size: 2rem;
 }
 
-.first {
-  font-weight: 700;
-  color: black;
-}
-
-.second {
-  font-weight: lighter;
-  color: gray;
-}
 
 ul {
   display: flex;
