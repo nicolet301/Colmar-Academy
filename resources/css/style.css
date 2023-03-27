@@ -46,7 +46,7 @@ header {
 
 ul {
   display: flex;
-  align-center;
+  align-items: center;
   list-style: none;
   text-decoration: none;
 
