@@ -27,9 +27,11 @@ header {
 
 .logo {
   display: flex;
+  font-size: 2rem;
   align-items: center;
   float: left;
   line-height: 2rem;
+
 }
 
 #colmar {
