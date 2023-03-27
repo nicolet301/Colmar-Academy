@@ -19,6 +19,7 @@ header {
 
 .navbar {
   display: flex;
+  justify-content: space-between;
   align-items: center;
   margin-left: 1.5rem;
   margin-right: 1.5rem;
@@ -35,22 +36,23 @@ header {
 
 #colmar {
   font-weight: 100;
+  align-items: center;
 }
 
 #colmar span {
   font-weight: 700;
+  align-items: center;
 }
 
 ul {
   display: flex;
+  align-center;
   list-style: none;
   text-decoration: none;
 
 }
 
 header ul li {
-  display: flex;
-  justify-content: space-around;
   padding: 1rem;
 
 }
