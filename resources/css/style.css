@@ -17,7 +17,6 @@ header {
  z-index: 1;
 }
 
-
 .navbar {
   display: flex;
   justify-content: space-between;
@@ -28,21 +27,20 @@ header {
 
 .logo {
   display: flex;
-  font-size: 2rem;
   align-items: center;
   float: left;
   line-height: 2rem;
 
 }
+.first {
+  font-weight: 700;
+  color: black;
 
-#colmar {
-  font-weight: 100;
 
 }
 
-#colmar span {
-  font-weight: 700;
-
+.second {
+  font-weight: 100;
 }
 
 ul {
