@@ -104,7 +104,12 @@ button {
 
 /* Section 2: Practice */
 
-.practice img {
+.practice {
+  display: flex;
+  flex-flow: column wrap;
+}
+
+.reader {
   max-width: 60%;
   margin: 2rem 1.5rem;
 }
