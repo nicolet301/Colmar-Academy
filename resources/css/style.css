@@ -15,7 +15,8 @@ header {
  position: fixed;
  width: 100%;
  z-index: 1;
- vertical-align: middle;
+ display: flex;
+ align-items: center;
 }
 
 .navbar {
