@@ -38,13 +38,14 @@ span {
 
 
 ul {
-  display: inline;
   list-style: none;
   text-decoration: none;
 
 }
 
 header ul li {
+  display: inline;
+  float: right;
   padding: 1rem;
 
 }
