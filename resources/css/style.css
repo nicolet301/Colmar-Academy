@@ -103,8 +103,12 @@ button {
 }
 
 .reader {
-  width: 60;
   margin: 0 1.5rem;
+}
+
+.university {
+  display: flex;
+  flex-direction: column;
 }
 
 
