@@ -18,8 +18,6 @@ header {
 }
 
 .navbar {
-  display: flex;
-  align-items: center;
   margin-left: 1.5rem;
   margin-right: 1.5rem;
 }
@@ -44,8 +42,7 @@ ul {
 }
 
 header ul li {
-  display: inline;
-  float: right;
+
   padding: 1rem;
 
 }
