@@ -18,8 +18,8 @@ header {
 }
 
 .navbar {
-  margin-left: 1.5rem;
-  margin-right: 1.5rem;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
 }
 
 .logo {
@@ -33,7 +33,7 @@ header {
 ul {
   display: flex;
   align-items: center;
-  justify-content: space-around;
+  justify-content: space-between;
   list-style: none;
   text-decoration: none;
 
