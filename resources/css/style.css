@@ -103,8 +103,7 @@ button {
 }
 
 .reader {
-  width: auto;
-  height: auto;
+  flex-basis: 60%;
   margin: 0 1.5rem;
 }
 
