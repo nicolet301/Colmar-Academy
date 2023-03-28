@@ -20,7 +20,7 @@ header {
 .navbar {
   display: flex;
   justify-content: space-between;
-  align-self: center;
+  align-items: center;
   padding-left: 1.5rem;
   padding-right: 1.5rem;
 }
