@@ -103,8 +103,9 @@ button {
 }
 
 .reader {
+  margin: 0 auto;
   width: 60%;
-  margin: 0 1.5rem;
+  padding: 0 1.5rem;
 }
 
 .university {
