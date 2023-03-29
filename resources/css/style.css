@@ -103,9 +103,6 @@ button {
 }
 
 .reader {
-  display: flex;
-  justify-content: center;
-  align-items: center;
   width: 60%;
   margin: 0 1.5rem;
 }
