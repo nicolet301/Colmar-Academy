@@ -67,7 +67,7 @@ header ul li {
 }
 .title, .subtitle {
   display: flex;
-  
+  flex-direction: column;
 }
 
 .title {
