@@ -112,6 +112,10 @@ button {
   margin: 2rem 1.5rem;
 }
 
+.quote p {
+  word-wrap: break-word;
+}
+
 .university {
   display: flex;
   flex-direction: column;
