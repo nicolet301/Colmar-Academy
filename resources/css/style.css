@@ -105,7 +105,6 @@ button {
 .reader {
   display: flex;
   width: 60%;
-  height: auto;
   margin: 0 1.5rem;
 }
 
@@ -114,6 +113,11 @@ button {
   flex-wrap: wrap;
   margin-top: 2rem;
   margin-left: 1.5rem;
+}
+
+.quote p {
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .university {
