@@ -110,7 +110,7 @@ button {
 
 .quote {
   display: flex;
-  flex-flow: row wrap;
+  flex-flow: column wrap;
   margin-top: 2rem;
   margin-left: 1.5rem;
 }
