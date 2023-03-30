@@ -107,6 +107,10 @@ button {
   margin: 0 1.5rem;
 }
 
+.quote {
+  display: flex;
+}
+
 .university {
   display: flex;
   flex-direction: column;
