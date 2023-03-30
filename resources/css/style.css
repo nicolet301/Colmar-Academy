@@ -103,10 +103,15 @@ button {
 }
 
 .reader {
-  min-width: 60%;
+  display: flex;
+  flex-basis: 60%;
   margin: 0 1.5rem;
 }
 
+.quote {
+  display: flex;
+  flex-flow: row wrap;
+}
 
 .university {
   display: flex;
