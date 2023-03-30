@@ -48,7 +48,7 @@ header ul li {
 
 /* Section 1: Banner */
 
-.banner {
+#banner {
   margin-top: 4rem;
   background-color: lightgray;
   display: flex;
@@ -56,7 +56,7 @@ header ul li {
   align-items: center;
 }
 
- .banner img {
+ #banner img {
   max-width: 60%;
   margin: 2rem 1.5rem;
 }
@@ -90,7 +90,7 @@ button {
 
 /* Section 2: Practice */
 
-.practice {
+#practice {
   display: flex;
   flex-direction: row;
   margin: 2rem auto;
@@ -98,7 +98,7 @@ button {
 
 .college {
   display: flex;
-  flex-direction: row;
+  flex-flow: column wrap;
 
 }
 
