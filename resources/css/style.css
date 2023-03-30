@@ -104,6 +104,7 @@ button {
 
 .reader {
   display: flex;
+  flex-shrink: 0;
   width: 60%;
   margin: 0 1.5rem;
 }
