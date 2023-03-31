@@ -91,7 +91,8 @@ button {
 /* Section 2: Practice */
 
 #practice {
-  display: inline-flex;
+  display: flex;
+  flex-direction: row;
   margin: 2rem auto;
 }
 
