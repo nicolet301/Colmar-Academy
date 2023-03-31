@@ -93,21 +93,23 @@ button {
 #practice {
   display: flex;
   flex-direction: row;
-  margin: 2rem auto;
 }
 
+.college {
+  display: flex;
+  flex-direction: column;
+  margin: 2rem 1.5rem;
+  width: 60%;
+}
 
 
 .reader {
   display: flex;
-  flex-shrink: 0;
-  width: 60%;
-  margin: 0 1.5rem;
+  width: 100%
 }
 
-.quote {
-  margin: 2rem 1.5rem;
-}
+
+
 
 .university {
   display: flex;
