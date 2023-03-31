@@ -91,16 +91,11 @@ button {
 /* Section 2: Practice */
 
 #practice {
-  display: flex;
-  flex-direction: row;
+  display: inline-flex;
   margin: 2rem auto;
 }
 
-.college {
-  display: flex;
-  flex-flow: column wrap;
 
-}
 
 .reader {
   display: flex;
@@ -111,10 +106,6 @@ button {
 
 .quote {
   margin: 2rem 1.5rem;
-}
-
-.quote p {
-  word-wrap: break-word;
 }
 
 .university {
@@ -129,6 +120,7 @@ button {
   height: auto;
   width: 35%;
 }
+
 
 
 
