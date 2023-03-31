@@ -112,6 +112,7 @@ button {
   display: flex;
   flex-direction: column;
   width: 40%;
+  border: 1px solid gray;
 }
 
 .campus {
@@ -126,9 +127,7 @@ button {
   height: auto;
 }
 
-.info {
-  padding-left: 0.2 rem;
-}
+
 
 
 /* Section 3: Learn */
