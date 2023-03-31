@@ -108,21 +108,14 @@ button {
   width: 100%
 }
 
-
-
-
 .university {
   display: flex;
   flex-direction: column;
   width: 40%;
 }
 
-.university figure {
-  display: flex;
-  align-items: center;
-  height: auto;
-  width: 35%;
-}
+
+
 
 
 
