@@ -120,7 +120,7 @@ button {
   flex-direction: row;
   align-items: center;
   margin: 2rem 1.5rem;
-  
+
 }
 
 .campus img {
@@ -128,6 +128,9 @@ button {
   height: auto;
 }
 
+.info {
+  padding-left: 0.8;
+}
 
 
 
