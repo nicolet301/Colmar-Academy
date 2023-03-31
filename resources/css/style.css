@@ -114,7 +114,11 @@ button {
   width: 40%;
 }
 
-
+.campus {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
 
 
 
