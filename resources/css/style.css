@@ -118,8 +118,13 @@ button {
   display: flex;
   flex-direction: row;
   align-items: center;
+  margin: 2rem 1.5rem;
 }
 
+.campus img {
+  width: 35%;
+  height: auto;
+}
 
 
 
