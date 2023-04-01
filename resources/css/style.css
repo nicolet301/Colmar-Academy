@@ -120,8 +120,10 @@ button {
   flex-direction: row;
   align-items: center;
   margin: 2rem 1.5rem;
+}
 
-
+.campus:hover {
+  background: lightgray;
 }
 
 .campus img {
@@ -133,7 +135,10 @@ button {
   margin-left: 0.8rem;
 }
 
-
+a {
+  text-decoration: none;
+  color: blue;
+}
 
 /* Section 3: Learn */
 
