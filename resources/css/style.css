@@ -120,7 +120,7 @@ button {
   flex-direction: row;
   align-items: center;
   margin: 2rem 1.5rem;
-  
+
 
 }
 
@@ -130,7 +130,7 @@ button {
 }
 
 .campus .info {
-  margin: 0 0 0 0.8rem;
+  margin-left: 0.8rem;
 }
 
 
