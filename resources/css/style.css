@@ -112,14 +112,14 @@ button {
   display: flex;
   flex-direction: column;
   width: 40%;
-  border: 1px solid gray;
+  border-left: 1px solid gray;
 }
 
 .campus {
   display: flex;
   flex-direction: row;
   align-items: center;
-  margin: 2rem 1.5rem;
+  margin: 2rem auto;
 }
 
 .campus:hover {
@@ -129,6 +129,7 @@ button {
 .campus img {
   width: 35%;
   height: auto;
+  padding: 1rem;
 }
 
 .campus .info {
@@ -142,6 +143,11 @@ a {
 
 /* Section 3: Learn */
 
+#courses{
+  display: flex;
+  flex-direction: column;
+  background-color: lightgray;
+}
 
 
 
