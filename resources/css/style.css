@@ -119,7 +119,6 @@ button {
   display: flex;
   flex-direction: row;
   align-items: center;
-  margin: 2rem auto;
 }
 
 .campus:hover {
@@ -166,7 +165,7 @@ video {
 .research {
   display: flex;
   flex-direction: column;
-  
+
 }
 
 /* Footer */
