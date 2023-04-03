@@ -56,13 +56,22 @@ header ul li {
   align-items: center;
 }
 
- #banner img {
-  max-width: 60%;
+.students {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
   margin: 2rem 1.5rem;
 }
 
+ #banner img {
+  width: 100%;
+ }
+
 .content {
-  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+  padding: 1.5rem 0;
 
 }
 .title, .subtitle {
