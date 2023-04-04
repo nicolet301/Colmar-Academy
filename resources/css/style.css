@@ -173,14 +173,20 @@ a {
   display: flex;
   flex-direction: column;
   background-color: lightgray;
+  padding: 2rem 4.5rem;
 }
 
 #courses h2 {
   text-align: center;
-  padding: 2rem 0;
   font-size: 2rem;
 }
 
+.course {
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  width: 33.3%;
+}
 
 
 
