@@ -175,24 +175,12 @@ a {
   background-color: lightgray;
 }
 
-#courses h2 {
-  font-size: 2rem;
-  margin: 2rem 0;
-  text-align: center;
-}
 
-.subjects {
-  display: flex;
-  justify-content: center;
-  align-items: baseline;
-  margin: 2rem 4.5rem;
-}
 
-.course {
-  margin: 0 2rem;
-  height: auto;
-  width: auto;
-}
+
+
+
+
 
 /* Section 4: Thesis */
 
