@@ -181,6 +181,12 @@ a {
   font-size: 2rem;
 }
 
+.subjects {
+  display: flex;
+  justify-content: center;
+  flex-flow: row wrap;
+}
+
 .course {
   display: flex;
   flex-direction: column;
