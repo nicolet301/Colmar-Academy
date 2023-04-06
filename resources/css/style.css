@@ -191,9 +191,17 @@ a {
   display: flex;
   flex-direction: column;
   height: auto;
-  width: 30%;
+  width: 27%;
   background-color: white;
-  margin: 0.5rem;
+  margin: 2rem;
+}
+
+.course h3 {
+  font-size: 1.375rem;
+}
+
+.subheader {
+  padding: 0.5rem 0;
 }
 
 .course_info {
