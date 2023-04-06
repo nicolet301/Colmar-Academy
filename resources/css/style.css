@@ -191,8 +191,9 @@ a {
   display: flex;
   flex-direction: column;
   height: auto;
-  width: 33.3%;
+  width: 30%;
   background-color: white;
+  margin: 0.5rem;
 }
 
 
