@@ -225,7 +225,7 @@ a {
 .reimagine {
   display: flex;
   flex-direction: column;
-  width: 60%;
+  
 }
 
 video {
