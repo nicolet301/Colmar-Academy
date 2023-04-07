@@ -212,35 +212,55 @@ a {
 
 /* Section 4: Thesis */
 
-#thesis {
-  display: flex;
-  flex-direction: column;
-}
-
 #thesis h2 {
   text-align: center;
   font-size: 2rem;
+}
+
+.exhibit {
+  display: flex;
+  flex-direction: row;
 }
 
 .reimagine {
   display: flex;
   flex-direction: column;
   width: 60%;
-
+  padding: 1.5rem;
 }
 
 video {
-  display: flex;
   width: 100%;
-  padding: 2rem;
+
 }
 
 .research {
   display: flex;
   flex-direction: column;
-
+  width: 40%;
+  margin: 1.5rem 1.5rem;
 }
 
+.jpg {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.jpg img {
+  height: auto;
+  width: 35%;
+  padding: 1rem;
+}
+
+.jpg:hover {
+  background-color: lightgray;
+}
+
+.description {
+  width: 65%;
+  padding: 0 0.8rem;
+}
 /* Footer */
 
 .academy {
