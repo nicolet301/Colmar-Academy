@@ -214,7 +214,7 @@ a {
 
 #thesis {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
 }
 
 #thesis h2 {
