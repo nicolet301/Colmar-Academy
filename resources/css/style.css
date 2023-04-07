@@ -217,9 +217,20 @@ a {
   flex-direction: row;
 }
 
-video {
+#thesis h2 {
+  text-align: center;
+  font-size: 2rem;
+}
+
+.reimagine {
+  display: flex;
+  flex-direction: column;
   width: 60%;
-  margin: 2rem 1.5rem 1.5rem;
+}
+
+video {
+  display: flex;
+  width: 100%;
 }
 
 .research {
