@@ -243,6 +243,13 @@ video {
 .urban h3{
   margin: 1.5rem 0 0.5rem 0;
 }
+
+.urban p {
+  font-size: 1.0625rem;
+  margin: 0 0 0.5rem 0;
+}
+
+
 .research {
   display: flex;
   flex-direction: column;
@@ -270,10 +277,23 @@ video {
   width: 65%;
   padding: 0 0.8rem;
 }
+
+.description h3 {
+  font-size: 1.25rem;
+}
+
+.description p {
+  font-size: 1.0625rem;
+}
 /* Footer */
 
 .academy {
 display: flex;
+justify-content: space-between;
+}
+
+.academy ul {
+  padding: 0 0 0 1.5rem;
 }
 
 /* Mobile Media Queries */
@@ -286,4 +306,3 @@ display: flex;
   }
 }
 
-}
