@@ -294,16 +294,10 @@ justify-content: space-between;
 }
 
 .academy ul li {
-  padding: 0 1.5rem;
+  padding: 0 0.5rem;
 }
 
 /* Mobile Media Queries */
 
-@media only screen and (max-width: 900px) {
-  body {
-    display: flex;
-    flex-direction: column;
-    width: 100%;
-  }
-}
+
 
