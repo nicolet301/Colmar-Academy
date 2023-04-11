@@ -276,3 +276,13 @@ display: flex;
 }
 
 /* Mobile Media Queries */
+
+@media only screen and (max-width: 900px) {
+  body {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+}
+
+}
