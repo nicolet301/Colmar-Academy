@@ -233,7 +233,9 @@ video {
   width: 100%;
 }
 
-
+.urban h3{
+  margin: 1.5rem 0 0.5rem 0;
+}
 .research {
   display: flex;
   flex-direction: column;
