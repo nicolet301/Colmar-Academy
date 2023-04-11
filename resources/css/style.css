@@ -284,6 +284,7 @@ video {
 
 .description p {
   font-size: 1.0625rem;
+  line-height: 1.5rem;
 }
 /* Footer */
 
@@ -292,8 +293,8 @@ display: flex;
 justify-content: space-between;
 }
 
-.academy ul {
-  padding: 0 0 0 1.5rem;
+.academy ul li {
+  padding: 0 1.5rem;
 }
 
 /* Mobile Media Queries */
