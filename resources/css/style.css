@@ -231,8 +231,12 @@ a {
 
 video {
   width: 100%;
-
 }
+
+.reimagine h2 {
+  font-size: 2rem;
+}
+
 
 .research {
   display: flex;
