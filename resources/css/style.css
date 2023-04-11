@@ -295,7 +295,7 @@ justify-content: space-between;
 }
 
 .academy ul li {
-  padding: 0 1rem;
+  padding: 0 0.5rem;
 }
 
 /* Mobile Media Queries */
