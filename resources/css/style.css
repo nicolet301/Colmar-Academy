@@ -30,7 +30,14 @@ header {
   align-items: center;
   float: left;
   font-size: 2rem;
+}
 
+#first {
+  font-weight: 700;
+}
+
+#second {
+  font-weight: lighter;
 }
 
 ul {
