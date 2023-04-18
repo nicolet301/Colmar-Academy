@@ -313,5 +313,9 @@ justify-content: space-between;
 
 /* Mobile Media Queries */
 
-
+@media only screen and (max-width: 767px) {
+  main {
+    display: block;
+  }
+}
 
