@@ -13,9 +13,6 @@ body {
   min-height: 100vh;
 }
 
-main {
-  display: flex;
-}
 /* Header */
 
 header {
@@ -315,11 +312,6 @@ justify-content: space-between;
 
 /* Mobile Media Queries */
 
-@media only screen and (max-width: 767px) {
-  main {
-    display: block;
-  }
-}
 
-}
+
 
