@@ -339,6 +339,7 @@ justify-content: space-between;
 
   .mobile_nav {
     position: absolute;
+    display: flex;
 
   }
 }
