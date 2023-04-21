@@ -1,6 +1,6 @@
 /* Universal Styles */
 
-/* Comment out desktop to work on mobile
+
 html, body {
   margin: 0;
   padding: 0;
@@ -10,11 +10,11 @@ html, body {
 body {
   font-family: Arial, Helvetica, sans-serif;
 }
-*/
+
 
 /* Header */
 
-/* Comment Out
+
 header {
  top: 0;
  position: fixed;
@@ -57,9 +57,9 @@ ul {
 header ul li {
   padding: 1rem;
 }
-*/
+
 /* Section 1: Banner */
-/*
+
 #banner {
   margin-top: 4rem;
   background-color: lightgray;
@@ -107,10 +107,10 @@ button {
   color: white;
   border-style: none;
 }
-*/
+
 
 /* Section 2: Practice */
-/*
+
 #practice {
   display: flex;
   flex-direction: row;
@@ -184,9 +184,9 @@ a {
   text-decoration: none;
   color: blue;
 }
-*/
+
 /* Section 3: Learn */
-/*
+
 #courses{
   display: flex;
   flex-direction: column;
@@ -225,9 +225,9 @@ a {
 .course_info {
   padding: 1rem;
 }
-*/
+
 /* Section 4: Thesis */
-/*
+
 #thesis {
   margin: 2rem 0;
 }
@@ -298,9 +298,9 @@ video {
   font-size: 1.0625rem;
   line-height: 1.5rem;
 }
-*/
+
 /* Footer */
-/*
+
 .academy {
 display: flex;
 justify-content: space-between;
@@ -310,18 +310,22 @@ justify-content: space-between;
   padding: 0 0.5rem;
 }
 
-*/
-
-
-
 
 /* Mobile Media Queries */
 
 @media screen and (max-width: 768px) {
 
-  span {
+  html, body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  .navbar {
     display: none;
   }
+
 }
 
 
