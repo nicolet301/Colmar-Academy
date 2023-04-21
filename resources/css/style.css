@@ -58,6 +58,10 @@ header ul li {
   padding: 1rem;
 }
 
+.mobile_nav {
+  display: none;
+}
+
 /* Section 1: Banner */
 
 #banner {
