@@ -330,9 +330,9 @@ justify-content: space-between;
   }
 
   .container {
-    max-width: 747px;
+    max-width: 90%;
     margin: 0 auto;
-    padding: 0 0.625rem 0 0.625rem;
+    padding: 0.625rem ;
     display: flex;
     flex-direction:column;
 
@@ -341,7 +341,7 @@ justify-content: space-between;
   .mobile_nav {
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    
   }
 }
 
