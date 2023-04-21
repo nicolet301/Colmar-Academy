@@ -338,8 +338,7 @@ justify-content: space-between;
   }
 
   .mobile_nav {
-    display: flex;
-    justify-content: space-between;
+    position: absolute;
 
   }
 }
