@@ -330,18 +330,25 @@ justify-content: space-between;
   }
 
   .container {
-    max-width: 767px;
+    max-width: 747px;
     margin: 0 auto;
+    padding: 0 0.625rem;
     display: flex;
     flex-direction:column;
 
   }
 
-  .mobile_nav {
-    position: absolute;
+  .mobile_nav, li {
     display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    gap: 5.0rem;
+  }
+
+  #banner {
+    display:flex;
+    flex-direction:column;
 
   }
 }
-
-
