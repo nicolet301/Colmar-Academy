@@ -338,14 +338,21 @@ justify-content: space-between;
 
   }
 
-  .mobile_nav, li {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  .mobile_nav {
+    display: block;
     width: 100%;
-    gap: 5.0rem;
   }
 
+  .mobile_nav ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    list-style: none;
+  }
+
+  .mobile_nav ul li {
+    padding: 0;
+  }
   #banner {
     display:flex;
     flex-direction:column;
