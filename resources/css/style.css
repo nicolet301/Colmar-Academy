@@ -352,9 +352,14 @@ justify-content: space-between;
   .mobile_nav ul li {
     padding: 0;
   }
+
   #banner {
     display:flex;
     flex-direction:column;
+  }
 
+  #banner .students {
+    width: 100%;
+    margin: 0; 
   }
 }
