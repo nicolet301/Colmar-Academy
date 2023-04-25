@@ -328,14 +328,6 @@ justify-content: space-between;
     display: none;
   }
 
-  .container {
-    max-width: 747px;
-    margin: 0 auto;
-    padding: 0 0.625rem;
-    display: flex;
-    flex-direction: column;
-
-  }
 
   header {
     display: inline-block;
