@@ -317,21 +317,18 @@ justify-content: space-between;
 /* Mobile Media Queries */
 
 @media screen and (max-width: 767px) {
-
   html, body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-  }
-
-  ::-webkit-scrollbar {
-    display: none;
+    height: 100%;
+    width: 100%;
+    overflow-x: hidden;
   }
 
   .navbar {
     display: none;
   }
-
 
   header {
     display: inline-block;
@@ -363,5 +360,17 @@ justify-content: space-between;
   #banner .students {
     width: 100%;
     margin: 0;
+  }
+
+  #banner .content {
+    width: 100%;
+    padding: 0;
+  }
+
+  #banner .content_info {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    padding: 0 1rem 2rem 1rem;
   }
 }
