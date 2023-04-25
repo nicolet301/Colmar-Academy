@@ -324,6 +324,10 @@ justify-content: space-between;
     box-sizing: border-box;
   }
 
+  body::-webkit-scrollbar {
+    display: none;
+  }
+
   .navbar {
     display: none;
   }
