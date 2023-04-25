@@ -350,7 +350,7 @@ justify-content: space-between;
   .mobile_nav ul {
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-between;
     list-style: none;
   }
 
