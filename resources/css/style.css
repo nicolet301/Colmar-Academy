@@ -406,8 +406,14 @@ justify-content: space-between;
 
  /* Section 2: Practice Section Styles */
 
- .practice-container {
+.college {
   display: none;
+}
+
+.university {
+  display: none;
+}
+
 }
 
   .university-mobile {
