@@ -320,6 +320,8 @@ justify-content: space-between;
 
 /* Mobile Media Queries */
 
+/* Universal Styles */
+
 @media screen and (max-width: 767px) {
   html, body {
     margin: 0;
@@ -329,6 +331,8 @@ justify-content: space-between;
     width: 100%;
     overflow-x: hidden;
   }
+
+/* Header Styles */
 
   .navbar {
     display: none;
@@ -356,9 +360,11 @@ justify-content: space-between;
     padding: 0;
   }
 
+/* Section 1: Banner Styles */
+
   #banner {
     display:flex;
-    flex-direction:column;
+    flex-direction: column;
   }
 
   #banner .students {
@@ -366,15 +372,47 @@ justify-content: space-between;
     margin: 0;
   }
 
+  #banner img {
+    width: 100%;
+  }
+
   #banner .content {
     width: 100%;
     padding: 0;
+    flex-direction: column;
   }
 
   #banner .content_info {
     display: flex;
-    justify-content: flex-start;
     flex-direction: column;
     padding: 0 1rem 2rem 1rem;
+  }
+
+  #banner h2.title {
+    margin: 2rem 1rem;
+    line-height: 1.25;
+  }
+
+
+  #banner p.subtitle {
+    margin: 0 1rem 1.5rem;
+  }
+
+  button {
+    padding: 1.25rem;
+    width: 100%;
+  }
+
+
+ /* Section 2: Practice Section Styles */
+
+ .practice-container {
+  display: none;
+}
+
+  .university-mobile {
+    display: flex;
+    flex-direction: column;
+    margin: 1rem;
   }
 }
