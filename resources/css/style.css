@@ -188,6 +188,10 @@ a {
   color: blue;
 }
 
+.university-mobile {
+  display: none;
+}
+
 /* Section 3: Learn */
 
 #courses{
