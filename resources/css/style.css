@@ -414,8 +414,18 @@ justify-content: space-between;
 
 }
 
+.campus {
+  display: flex;
+  flex-direction: column;
+}
+
 .campus img {
   display: none;
+}
+
+.campus .mobile-img {
+  width: 100%;
+  margin: 0 auto;
 }
 
 #orientation, #our_campus {
