@@ -317,7 +317,7 @@ justify-content: space-between;
 
 /* Mobile Media Queries */
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 768px) {
   html, body {
     margin: 0;
     padding: 0;
@@ -414,7 +414,9 @@ justify-content: space-between;
 
 }
 
-
+.campus img {
+  display: none;
+}
 
 #orientation, #our_campus {
   border-bottom: none;
