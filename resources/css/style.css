@@ -415,7 +415,7 @@ justify-content: space-between;
 .university {
   display: flex;
   flex-direction: column;
-
+  width: 100%;
 }
 
 .campus {
