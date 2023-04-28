@@ -440,9 +440,17 @@ justify-content: space-between;
   padding-left: 2rem;
 }
 
+.info h3 {
+  font-size: 1.5rem;
+}
+
+.info p {
+  font-size: 1.125rem;
+}
+
 #orientation, #our_campus {
   border-bottom: none;
-  padding-bottom: 4rem;
+  padding-bottom: 3rem;
 }
 
 
