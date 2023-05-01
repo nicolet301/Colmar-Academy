@@ -452,7 +452,7 @@ justify-content: space-between;
 }
 
 .campus:hover {
-  background-color: none;
+  background-color: unset;
 }
 
 /* Section 3: Courses Styles */
