@@ -446,14 +446,15 @@ justify-content: space-between;
   font-size: 1.125rem;
 }
 
+.campus:hover {
+  background-color: unset;
+}
+
 #orientation, #our_campus {
   border-bottom: none;
   padding-bottom: 3rem;
 }
 
-.campus:hover {
-  background-color: unset;
-}
 
 /* Section 3: Courses Styles */
 
