@@ -257,13 +257,6 @@ video {
   width: 100%;
 }
 
-#overlay {
-  display: none;
-}
-
-#overlay-button {
-  display: none;
-}
 
 .urban h3{
   margin: 1.5rem 0 0.5rem 0;
@@ -342,13 +335,14 @@ justify-content: space-between;
   }
 
   header {
-    display: inline-block;
-    width: 90%;
+    display: block;
+    width: 100%;
+    padding: 0;
   }
 
   .mobile_nav {
     display: block;
-    width: 100%;
+    width: 90%;
   }
 
   .mobile_nav ul {
@@ -361,6 +355,7 @@ justify-content: space-between;
 
   .mobile_nav ul li {
     padding: 0;
+    color: #5D5C61;
   }
 
 /* Section 1: Banner Styles */
