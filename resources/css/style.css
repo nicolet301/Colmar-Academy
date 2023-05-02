@@ -508,7 +508,7 @@ justify-content: space-between;
 
 .reimagine {
   width: 100%;
-  position: relative;
+  padding: 1rem 0;
 }
 
 .reimagine video {
@@ -517,7 +517,7 @@ justify-content: space-between;
 }
 
 .academy p {
-  padding-left: 1rem;
+  margin: 1rem;
 
 }
 
