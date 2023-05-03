@@ -57,6 +57,10 @@ header ul li {
   font-size: 1.125rem;
 }
 
+header li a {
+  text-decoration: none;
+}
+
 header ul li:hover {
   color: #557A95;
   font-weight: 500;
