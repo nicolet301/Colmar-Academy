@@ -87,9 +87,9 @@ header ul li {
 
 .content_info {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   padding: 0.5rem;
-  
+
 }
 .title {
   font-size: 3.125rem;
