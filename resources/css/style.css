@@ -412,15 +412,17 @@ justify-content: space-between;
   #banner h2.title {
     margin: 2rem 1rem;
     line-height: 1.25;
+    font-size: 2.625rem;
   }
 
 
   #banner p.subtitle {
     margin: 0 1rem 1.5rem;
+    font-size: 1.5rem;
   }
 
   button {
-    padding: 1.25rem;
+    padding: 0.8rem;
     width: 100%;
   }
 
