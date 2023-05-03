@@ -82,7 +82,7 @@ header ul li {
   flex-direction: column;
   width: 40%;
   padding: 1.5rem 0;
-  text-align: center
+  text-align: center;
 }
 
 .content_info {
