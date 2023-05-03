@@ -115,6 +115,7 @@ button {
 button:hover {
   background-color: #5D5C61;
   color: black;
+  text-transform: uppercase;
 }
 
 
