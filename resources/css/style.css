@@ -412,7 +412,8 @@ justify-content: space-between;
   #banner h2.title {
     margin: 2rem 1rem;
     line-height: 1.25;
-    font-size: 2.625rem;
+    font-size: 3.125rem;
+    font-weight: normal;
   }
 
 
@@ -423,7 +424,7 @@ justify-content: space-between;
 
   button {
     padding: 0.8rem;
-    width: 100%;
+    width: 75%;
   }
 
 
