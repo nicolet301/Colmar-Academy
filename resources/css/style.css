@@ -35,6 +35,10 @@ header {
   font-size: 1.5rem;
 }
 
+span {
+  font-size: 2rem;
+}
+
 #first {
   color: #7395AE;
 }
