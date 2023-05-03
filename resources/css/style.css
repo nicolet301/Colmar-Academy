@@ -214,7 +214,7 @@ a {
 #courses{
   display: flex;
   flex-direction: column;
-  background-color: lightgray;
+  background-color: #9db5c7;
   padding: 2rem 4.5rem;
 }
 
