@@ -180,7 +180,7 @@ button:hover {
 }
 
 .campus:hover {
-  background: lightgray;
+  background-color: #9db5c7;
 }
 
 .campus img {
@@ -307,7 +307,7 @@ video {
 }
 
 .jpg:hover {
-  background-color: lightgray;
+  background-color: #9db5c7;
 }
 
 .description {
