@@ -52,6 +52,10 @@ header ul li {
   padding: 0 1rem;
 }
 
+header ul li:hover {
+  background-color: #d8e1e8;
+}
+
 .mobile_nav {
   display: none;
 }
