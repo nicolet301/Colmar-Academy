@@ -112,6 +112,16 @@ button {
   margin: 0 auto;
 }
 
+button:hover {
+  background-color: #7395AE;
+  color: black;
+}
+
+button:active {
+  background-color: #7395AE;
+}
+
+
 
 /* Section 2: Practice */
 
