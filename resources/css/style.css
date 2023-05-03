@@ -342,7 +342,8 @@ justify-content: space-between;
 
   .mobile_nav {
     display: block;
-    width: 90%;
+    width: 100%;
+    padding: 0.5rem 0;
   }
 
   .mobile_nav ul {
@@ -350,7 +351,7 @@ justify-content: space-between;
     align-items: center;
     justify-content: space-between;
     list-style: none;
-    width: 100%
+    width: 90%;
   }
 
   .mobile_nav ul li {
