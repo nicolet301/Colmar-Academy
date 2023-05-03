@@ -113,7 +113,8 @@ button {
 }
 
 button:hover {
-  color: #beced9;
+  background-color: #5D5C61;
+  color: #dee6ec;
 }
 
 
