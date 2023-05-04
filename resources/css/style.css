@@ -222,6 +222,7 @@ a {
 #courses h2 {
   text-align: center;
   font-size: 2.375rem;
+  margin: 2rem 0; 
 }
 
 .subjects {
@@ -265,6 +266,7 @@ a {
 #thesis h2 {
   text-align: center;
   font-size: 2.375rem;
+  margin: 2rem 0;
 }
 
 .exhibit {
@@ -524,7 +526,8 @@ justify-content: space-between;
 /* Section 4: Thesis Styles */
 
 #thesis h2 {
-  margin: 0;
+  margin: 2rem 0 1rem;
+  font-size: 2.125rem;
 }
 
 .urban {
