@@ -220,7 +220,7 @@ a {
 
 #courses h2 {
   text-align: center;
-  font-size: 2rem;
+  font-size: 2.25rem;
 }
 
 .subjects {
@@ -237,6 +237,10 @@ a {
   background-color: white;
   margin: 2rem;
   border-radius: 10px;
+}
+
+.course img {
+  border-radius: 10px 10px 0 0;
 }
 
 .course h3 {
@@ -259,7 +263,7 @@ a {
 
 #thesis h2 {
   text-align: center;
-  font-size: 2rem;
+  font-size: 2.25rem;
 }
 
 .exhibit {
@@ -316,10 +320,13 @@ video {
   padding: 0 0.8rem;
 }
 
-.description h3 {
-  font-size: 1.25rem;
+#fisma h3 {
+  font-size: 1.375rem;
 }
 
+#new_york h3 {
+  font-size: 1.325rem;
+}
 .description p {
   font-size: 1.0625rem;
   line-height: 1.5rem;
