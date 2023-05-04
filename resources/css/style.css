@@ -221,7 +221,7 @@ a {
 
 #courses h2 {
   text-align: center;
-  font-size: 2.25rem;
+  font-size: 2.375rem;
 }
 
 .subjects {
@@ -264,7 +264,7 @@ a {
 
 #thesis h2 {
   text-align: center;
-  font-size: 2.25rem;
+  font-size: 2.375rem;
 }
 
 .exhibit {
@@ -283,7 +283,6 @@ video {
   width: 100%;
 }
 
-
 .urban h3{
   margin: 1.5rem 0 0.5rem 0;
 }
@@ -291,7 +290,6 @@ video {
 .urban p {
   font-size: 1.0625rem;
 }
-
 
 .research {
   display: flex;
