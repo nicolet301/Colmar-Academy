@@ -493,7 +493,7 @@ justify-content: space-between;
 
 .course {
   width: 100%;
-  margin: 1rem 0 0.5rem;
+  margin: 0.5rem;
 }
 
 .course img {
@@ -501,7 +501,7 @@ justify-content: space-between;
 }
 
 .course h3 {
-  font-size: 1.625rem;
+  font-size: 1.5rem;
 }
 
 .course_info p {
