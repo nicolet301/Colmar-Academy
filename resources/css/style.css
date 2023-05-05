@@ -120,12 +120,15 @@ button {
   border-radius: 10px;
   width: 90%;
   margin: 0 auto;
+  -webkit-transition: all 0.5s ease-out;
+  -moz-transition: all 0.5 ease-out;
+  -o-transition: all 0.5s ease-out;
+  transition: all 0.5s ease-out;
 }
 
 button:hover {
   background-color: #4A4A4E;
   color: #dee6ec;
-  transition: all 0.5s ease-out;
 }
 
 
@@ -502,12 +505,15 @@ justify-content: space-between;
 .course {
   width: 100%;
   margin: 0.5rem 0;
+  -webkit-transition: all 0.5s ease-out;
+  -moz-transition: all 0.5 ease-out;
+  -o-transition: all 0.5s ease-out;
+  transition: all 0.5s ease-out;
 }
 
 .course:hover {
   background-color: #ACACAE;
   color: #3B4C59;
-  transition: all 0.5s ease-out;
 }
 
 .course img {
