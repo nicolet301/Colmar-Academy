@@ -158,18 +158,18 @@ button:hover {
 
 .hiring {
   margin: 0 0 0.5rem 0;
-  font-size: 1.125rem;
+  font-size: 1.0625rem;
 }
 
 .quote p {
-  font-size: 1.25rem;
+  font-size: 1.0625rem;
 }
 
 .university {
   display: flex;
   flex-direction: column;
   width: 40%;
-  border-left: 1px solid gray;
+  border-left: 1px solid #4A4A4E;
   padding: 2rem 0;
 }
 
@@ -180,7 +180,7 @@ button:hover {
 }
 
 #orientation, #our_campus {
-  border-bottom: 1px solid gray;
+  border-bottom: 1px solid #4A4A4E;
 }
 
 .campus:hover {
@@ -224,7 +224,7 @@ a {
 
 #courses h2 {
   text-align: center;
-  font-size: 2.375rem;
+  font-size: 2.125rem;
   margin: 2rem 0 1.5rem;
 }
 
@@ -268,7 +268,7 @@ a {
 
 #thesis h2 {
   text-align: center;
-  font-size: 2.375rem;
+  font-size: 2.125rem;
   margin: 2rem 0 1.5rem;
 }
 
@@ -290,6 +290,7 @@ video {
 
 .urban h3{
   margin: 1.5rem 0 0.5rem 0;
+  font-size: 1.3rem;
 }
 
 .urban p {
@@ -427,7 +428,6 @@ justify-content: space-between;
     font-size: 3.125rem;
   }
 
-
   #banner p.subtitle {
     margin: 0 1rem 1.5rem;
     font-size: 1.5rem;
@@ -498,7 +498,7 @@ justify-content: space-between;
 }
 
 #courses h2 {
-  margin: 2rem 0 1rem;
+  margin: 2rem 0 1.5rem;
   font-size: 2.125rem;
 }
 
@@ -532,7 +532,7 @@ justify-content: space-between;
 /* Section 4: Thesis Styles */
 
 #thesis h2 {
-  margin: 2rem 0 1rem;
+  margin: 2rem 0 1.5rem;
   font-size: 2.125rem;
 }
 
