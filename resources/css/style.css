@@ -20,6 +20,7 @@ header {
  z-index: 1;
  top: 0;
  padding: 0.5rem;
+ background-color: #D4D4D6;
 }
 
 .navbar {
@@ -55,6 +56,7 @@ ul {
 header ul li {
   padding: 0 1rem;
   font-size: 1.125rem;
+  cursor: pointer;
 }
 
 header ul li:hover {
@@ -124,6 +126,7 @@ button {
   -moz-transition: all 0.5 ease-out;
   -o-transition: all 0.5s ease-out;
   transition: all 0.5s ease-out;
+  cursor: pointer;
 }
 
 button:hover {
@@ -509,6 +512,7 @@ justify-content: space-between;
   -moz-transition: all 0.5 ease-out;
   -o-transition: all 0.5s ease-out;
   transition: all 0.5s ease-out;
+  cursor: pointer;
 }
 
 .course:hover {
