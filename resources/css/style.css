@@ -20,7 +20,6 @@ header {
  z-index: 1;
  top: 0;
  padding: 0.5rem;
- background-color: #D4D4D6;
 }
 
 .navbar {
@@ -345,7 +344,6 @@ video {
 .academy {
 display: flex;
 justify-content: space-between;
-background-color: #D4D4D6;
 }
 
 .academy ul li {
